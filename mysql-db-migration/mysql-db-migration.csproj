@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>mysql_db_migration</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.6"/>
+    <ProjectReference Include="..\studentMigration\studentMigration.csproj"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xTmkf7phowRhvup/6/BSV2rEgKVD2NcuTcyoQo1NPWU=",
+  "Source": "mysql-db-migration",
+  "BasePath": "_content/mysql-db-migration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
